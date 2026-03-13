@@ -14,7 +14,7 @@ A fast, modern VPN client featuring DNS tunneling with support for multiple prot
 
 If you want to support development:
 
-- **USDT (BEP-20)**: `0xd4140058389572D50dC8716e768e687C050Dd5C9`
+- **BEP-20 / ERC-20 / Arbitrum**: `0xd4140058389572D50dC8716e768e687C050Dd5C9`
 
 ## Community
 
